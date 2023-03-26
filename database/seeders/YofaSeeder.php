@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Hash;
 class YofaSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+     * Seed Yofa.
      */
     public function run(): void
     {
